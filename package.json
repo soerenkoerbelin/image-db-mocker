@@ -1,0 +1,19 @@
+{
+  "name": "image-db-mocker",
+  "version": "1.0.0",
+  "description": "basic service to read images from fs and store them into json-documents to make them usable for SPA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soerenkoerbelin/image-db-mocker.git"
+  },
+  "author": "Sören Körbelin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soerenkoerbelin/image-db-mocker/issues"
+  },
+  "homepage": "https://github.com/soerenkoerbelin/image-db-mocker#readme"
+}
